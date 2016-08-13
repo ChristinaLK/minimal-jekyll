@@ -1,8 +1,8 @@
-# Minimal Theme
+# Minimal Theme, in Jekyll
 
-[Demo the Theme](http://orderedlist.github.com/minimal/)
+[Original theme](http://orderedlist.github.com/minimal/) by [Steve Smith](http://github.com/orderedlist)
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
+[Jekyll rendering](http://christinalk.github.io/minimal-jekyll) by [Christina Koch](http://github.com/christinaLK)
 
 Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
 
@@ -11,4 +11,7 @@ Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.or
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 
+# To use
 
+Clone this repository.  Edit the `_config.yaml` file to include your title, name, 
+and the future website root.  
